@@ -3,14 +3,16 @@
     {
       "days": "7",
       "link": "https://www.photo.com",
-      "name": "barbecue",
-      "description": "Awesome barbecue!"
-    },
+      "name": "Barbecue Wings (FULL PAN)",
+      "description": "Awesome barbecue wings 100 count!",
+      "cost": "100"
+    }, 
     {
       "days": "7",
       "link": "https://www.photo.com",
-      "name": "barbecue",
-      "description": "Awesome barbecue!"
+      "name": "Barbecue Wings (HALF PAN)",
+      "description": "Awesome barbecue 50 count!",
+      "cost": '50'
     }
   ],
   "dessert": [
@@ -18,13 +20,15 @@
       "days": "7",
       "link": "https://www.photo.com",
       "name": "fudge",
-      "description": "Awesome fudge!"
+      "description": "Awesome fudge!",
+      "cost": "30"
     },
     {
       "days": "7",
       "link": "https://www.photo.com",
       "name": "cake",
-      "description": "Awesome cake!"
+      "description": "Awesome cake!",
+      "cost": "100"
     }
   ]
 }
